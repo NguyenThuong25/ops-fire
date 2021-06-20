@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanbanfire-86000": {
+      "hosting": {
+        "ops-firebase": [
+          "kanbanfire-86000"
+        ]
+      }
+    }
+  }
+}
